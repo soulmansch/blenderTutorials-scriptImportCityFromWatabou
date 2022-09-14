@@ -16,6 +16,9 @@ This is a very basic script that will allow you to import any city you generated
 <img width="1431" alt="Screen Shot 2022-09-14 at 08 01 20" src="https://user-images.githubusercontent.com/25152869/190096616-a3f5f7a6-8946-4c7f-a10f-1fa3cc8d55d3.png">
 
 # 4- Copy the following script
+
+https://github.com/hightecksoul/blenderTutorials-scriptImportCityFromWatabou/blob/ea3b7d065da8edab99d06e457f0b8010a293f190/watabou.py
+
 Replace LINK_OF_THE_JSON_FILE by the absolute link to the file you exported from Watabou.
 
 The script will create the collections for buidling, water, farms...
@@ -23,7 +26,7 @@ The script will create the collections for buidling, water, farms...
 <img width="1431" alt="Screen Shot 2022-09-14 at 08 15 25" src="https://user-images.githubusercontent.com/25152869/190099607-a3cb982f-9eee-4523-8665-cdbcaa86e865.png">
 
 
-# 5- Delete what youd don't need and extrude the building
+# 5- Delete what you don't need and extrude the buildings
 
 <img width="1431" alt="Screen Shot 2022-09-14 at 08 21 29" src="https://user-images.githubusercontent.com/25152869/190100980-5d546963-a88e-4d6e-a0b3-ee97840fb134.png">
 
